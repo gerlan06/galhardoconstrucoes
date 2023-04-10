@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(-90deg,#6e1919,#000000);
+}
+.capa{
+    width: 100%;
+    background-image: linear-gradient(-90deg,#aa2828,#571e1e,#aa2828);
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+.portifolio{
+    background-image: linear-gradient(-90deg,#aa2828,#571e1e,#aa2828);
+    color: antiquewhite;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-transform: uppercase;
+}
